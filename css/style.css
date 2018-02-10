@@ -1,1 +1,29 @@
-
+html,body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+    background-color: #eaf2f5;
+}
+#navbarNav{
+  margin-left: 50%;
+}
+#logo{
+  margin-left: 7%;
+}
+.main_doc_heading{
+  background-color: #EAF2F5;
+}
+.main_doc_heading > h2 {
+  background-color: #2a2e37;
+  color: #fff;
+}
+.main_doc_heading h5{
+    margin-left: 30px;
+}
+.main_doc{
+    margin-top: 30px;
+}
+.main_doc .headings{
+    text-align: center;
+}
